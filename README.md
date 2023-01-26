@@ -1,6 +1,12 @@
 # ToggleAttr_jQuery
 Hide and show attribute or toggle every time gets clicked! 
 
+```HTML
+<input id="_targt" type="checkbox">
+<h1 id="testing"> Click me! </h1>
+
+```
+
 ```JS
 
  jQuery(() => {
