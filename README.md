@@ -31,8 +31,8 @@ Hide and show attribute or toggle every time gets clicked!
 <hr />
 <br />
 
-<h5>Resources:</h5>
-<a href="https://stackoverflow.com/questions/18665031/how-to-toggle-attr-in-jquery">Click Here</a>
-<a href="https://api.jquery.com/attr/">Docx Click Here</a>
-<a href="https://api.jquery.com/removeAttr/">Docx Click Here</a>
+<h5>Resources:</h5
+<br /><a href="https://stackoverflow.com/questions/18665031/how-to-toggle-attr-in-jquery">Click Here</a>
+<br /><a href="https://api.jquery.com/attr/">Docx Click Here</a>
+<br /><a href="https://api.jquery.com/removeAttr/">Docx Click Here</a>
 
